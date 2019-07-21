@@ -42,4 +42,9 @@ public class Langosta extends Crustaceo implements Carnivoro {
     public void comenPlantas() {
 
     }
+
+    @Override
+    public void mover() {
+
+    }
 }

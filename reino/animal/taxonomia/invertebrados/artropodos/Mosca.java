@@ -48,4 +48,9 @@ public class Mosca extends Insecto implements Volador,Coprofago {
     public void comerHeces() {
 
     }
+
+    @Override
+    public void mover() {
+
+    }
 }

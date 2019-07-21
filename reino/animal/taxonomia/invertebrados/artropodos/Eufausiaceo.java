@@ -42,4 +42,9 @@ public class Eufausiaceo extends Crustaceo implements Parasito {
     public void extraerNutriente() {
 
     }
+
+    @Override
+    public void mover() {
+
+    }
 }

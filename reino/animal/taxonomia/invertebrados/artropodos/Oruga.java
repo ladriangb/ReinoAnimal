@@ -42,4 +42,9 @@ public class Oruga extends Insecto implements Herbiviro {
     public void comenPlantas() {
 
     }
+
+    @Override
+    public void mover() {
+
+    }
 }

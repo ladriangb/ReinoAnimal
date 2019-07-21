@@ -42,4 +42,9 @@ public class BagheeraKiplingi extends Aracnidos implements Herbiviro {
     public void comenPlantas() {
 
     }
+
+    @Override
+    public void mover() {
+
+    }
 }

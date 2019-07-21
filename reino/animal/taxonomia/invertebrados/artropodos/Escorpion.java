@@ -42,4 +42,9 @@ public class Escorpion extends Aracnidos implements Carnivoro {
     public void comenPlantas() {
 
     }
+
+    @Override
+    public void mover() {
+
+    }
 }
